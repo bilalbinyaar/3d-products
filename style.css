@@ -1,48 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&family=Oswald:wght@200;400;500;600&display=swap');
 
-*{
-margin:0;
-padding:0;
-font-family: 'Oswald', sans-serif;
-
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oswald', sans-serif;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ddd;
 }
 
 h1 {
-    margin-top: 80px;
-    margin-bottom: 40px;
-    font-size: 3em;
-    text-align: center;
-    letter-spacing: 6px;
+  margin-top: 80px;
+  margin-bottom: 40px;
+  font-size: 3em;
+  text-align: center;
+  letter-spacing: 6px;
 }
 
-#car{
-width:70%;
-height: 400px;
-background-color:black;
+#car {
+  width: 70%;
+  height: 400px;
+  background-color: black;
 }
 
-#flip{
-    width:70%;
-    height: 400px;
-    background-color: #ddd;
+#flip {
+  width: 70%;
+  height: 400px;
+  background-color: #181818;
 }
 
-#wine{
-    width:70%;
-    height: 400px;
-    background-color: black;
+#wine {
+  width: 70%;
+  height: 400px;
+  background-color: black;
 }
 
-#cell{
-    width:70%;
-    height: 400px;
-    background-color:#ddd;
+#cell {
+  width: 70%;
+  height: 400px;
+  background-color: #181818;
 }
